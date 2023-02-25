@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.item-container {
+  padding: 10px;
+  border-color: #d7dae6;
+  border-style: solid;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.question {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #52606d;
+}

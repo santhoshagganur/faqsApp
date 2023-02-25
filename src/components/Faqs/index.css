@@ -1,0 +1,29 @@
+/* Write your code here. */
+
+.app-container {
+  background-color: #f1f5f8;
+  padding: 25px;
+}
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+}
+
+.faqs-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+  color: #cb8805;
+  font-weight: 500;
+  text-align: center;
+}
+
+.list-container {
+  list-style-type: none;
+}
